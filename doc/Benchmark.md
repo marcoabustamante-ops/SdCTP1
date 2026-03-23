@@ -20,5 +20,5 @@ A continuación, presentamos una lista de benchmarks.
 | :--- | :--- |
 | **Compilación de software (Desarrollo)** | **Timed Linux Kernel Compilation** |
 | **Gaming y Ocio** | **FurMark / In-Game Benchmark** |
-|  |  |
-|  |  |
+| **Streaming Velocidad de Internet** | **Speedtest.net** |
+| **Grabacion de video HD** | **FFMPEG** |
