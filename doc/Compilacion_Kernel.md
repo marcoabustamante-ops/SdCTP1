@@ -47,4 +47,9 @@ Para tomar una decisión de hardware informada, evaluamos dos factores críticos
 * **Energía:** El **AMD Ryzen 9 7950X** es el más eficiente en "tiempo total de consumo". Aunque su potencia pico es elevada, al terminar la tarea de compilación en casi la mitad del tiempo que los demás, el sistema vuelve a un estado de bajo consumo mucho antes, lo que puede reducir el gasto energético total por cada compilación realizada.
 
 ---
+
+![Tabla comparativa de procesadores i5 vs Ryzen](img/tabla_comparativa.png)
+
+---
+
 **Fuente de los datos:** [OpenBenchmarking - pts/build-linux-kernel](https://openbenchmarking.org/test/pts/build-linux-kernel&eval=9cdcd82c9c47af9df17263e4312f634338dbf476#metrics)
