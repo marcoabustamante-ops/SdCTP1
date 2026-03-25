@@ -26,11 +26,11 @@ sudo apt install arduino
 ```
 * solo hay que configurarlo adecuadamente, en Additioanal Boards Manager URLs con la URL `https://dl.espressif.com/dl/package_esp32_index.json` 
 
-![Mi esquema](Additional_Boards.png)
+![file / Preference](../img/Additional_Boards.png)
 
 * Buscamos los archivos necesarios para utilizar nuestra placa desde. Asegurarse de elegir la ESP32 de Expressif System 
 
-![alt text](ManagerBoard.png)
+![Tools / Board / BoardsManager](../img/ManagerBoard.png)
 
 <br>
 
