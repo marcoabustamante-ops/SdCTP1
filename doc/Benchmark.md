@@ -9,8 +9,10 @@ A continuación, presentamos una lista de benchmarks.
 * **Timed Linux Kernel Compilation:** Es un benchmark de **programa real** que mide el tiempo necesario para construir el kernel de Linux desde el código fuente. Evalúa la capacidad del procesador para manejar miles de archivos pequeños, la gestión de la memoria RAM y la eficiencia del compilador. Es una métrica fiel para un entorno de desarrollo.
 * **Cinebench 2026:** Un benchmark **sintético de aplicación** que utiliza el motor de renderizado Redshift. Está diseñado para medir el **throughput** (capacidad de trabajo total) de la CPU y la GPU en tareas de renderizado 3D de alta carga. Es muy sensible a las mejoras en la arquitectura del hardware.
 * **Pruebas de FLOPS (Floating Point Operations Per Second):** Son tests de **bajo nivel** que miden la cantidad de operaciones matemáticas de punto flotante que el hardware puede resolver por segundo. Representan la métrica de potencia bruta más pura para cálculos científicos y simulaciones.
-* **FurMark:** Un benchmark **sintético de estrés** (stress test) que utiliza algoritmos de renderizado de pelaje para llevar la GPU a su límite térmico y de consumo eléctrico. A diferencia de un juego, mantiene una carga constante del 100% para evaluar la estabilidad del hardware y el sistema de refrigeración.
+* **FurMark:** Es un benchmark **sintético de estrés** (stress test) que utiliza algoritmos de renderizado de pelaje para llevar la GPU a su límite térmico y de consumo eléctrico. A diferencia de un juego, mantiene una carga constante del 100% para evaluar la estabilidad del hardware y el sistema de refrigeración.
 * **Speedometer / JetStream:** Benchmarks **de aplicación** basados en el navegador que miden la velocidad de ejecución de scripts web (JavaScript). Reflejan la fluidez y la **latencia** en tareas de navegación diaria y aplicaciones en la nube.
+*  **Speedteest:** Es un benchmark de red y throughput. Mide el rendimiento de la interfaz de red (NIC) y la latencia (ping) entre el sistema y un servidor externo.
+*  **FFmpeg:** Un benchmark de programa real que mide la capacidad del procesador para transformar y comprimir archivos de video y audio. Evalúa qué tan rápido el hardware puede realizar cálculos matemáticos repetitivos sobre grandes flujos de datos multimedia.
 
 **Pablo Castilla (Programación y Gaming):** El Timed Linux Kernel Compilation es el más útil para medir el tiempo de ejecución en desarrollo , y FurMark  que mide mejor la estabilidad del hardware en juegos pesados.
 
@@ -19,6 +21,6 @@ A continuación, presentamos una lista de benchmarks.
 | Tareas que realizamos a diario | Benchmark que mejor la representa |
 | :--- | :--- |
 | **Compilación de software (Desarrollo)** | **Timed Linux Kernel Compilation** |
-| **Gaming y Ocio** | **FurMark / In-Game Benchmark** |
+| **Gaming y Ocio** | **FurMark** |
 | **Streaming Velocidad de Internet** | **Speedtest.net** |
 | **Grabacion de video HD** | **FFMPEG** |
