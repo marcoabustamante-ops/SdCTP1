@@ -15,6 +15,7 @@ A continuación, presentamos una lista de benchmarks.
 *  **FFmpeg:** Un benchmark de programa real que mide la capacidad del procesador para transformar y comprimir archivos de video y audio. Evalúa qué tan rápido el hardware puede realizar cálculos matemáticos repetitivos sobre grandes flujos de datos multimedia.
 
 **Pablo Castilla (Programación y Gaming):** El Timed Linux Kernel Compilation es el más útil para medir el tiempo de ejecución en desarrollo , y FurMark  que mide mejor la estabilidad del hardware en juegos pesados.
+
 **Luciano Blanco (Simulación de cicuitos y diseño analógico con LTSpice):** El Ariel Benchmark (también conocido como el Ariel LTspice Speed Test) es el más útil para medir la velocidad de cómputo del motor en simulaciones transitorias, y el Análisis de Monte Carlo que mide mejor la fiabilidad del diseño ante la tolerancia de los componentes.
 
 
