@@ -11,10 +11,12 @@ A continuación, presentamos una lista de benchmarks.
 * **Pruebas de FLOPS (Floating Point Operations Per Second):** Son tests de **bajo nivel** que miden la cantidad de operaciones matemáticas de punto flotante que el hardware puede resolver por segundo. Representan la métrica de potencia bruta más pura para cálculos científicos y simulaciones.
 * **FurMark:** Es un benchmark **sintético de estrés** (stress test) que utiliza algoritmos de renderizado de pelaje para llevar la GPU a su límite térmico y de consumo eléctrico. A diferencia de un juego, mantiene una carga constante del 100% para evaluar la estabilidad del hardware y el sistema de refrigeración.
 * **Speedometer / JetStream:** Benchmarks **de aplicación** basados en el navegador que miden la velocidad de ejecución de scripts web (JavaScript). Reflejan la fluidez y la **latencia** en tareas de navegación diaria y aplicaciones en la nube.
-*  **Speedteest:** Es un benchmark de red y throughput. Mide el rendimiento de la interfaz de red (NIC) y la latencia (ping) entre el sistema y un servidor externo.
+*  **Speedtest:** Es un benchmark de red y throughput. Mide el rendimiento de la interfaz de red (NIC) y la latencia (ping) entre el sistema y un servidor externo.
 *  **FFmpeg:** Un benchmark de programa real que mide la capacidad del procesador para transformar y comprimir archivos de video y audio. Evalúa qué tan rápido el hardware puede realizar cálculos matemáticos repetitivos sobre grandes flujos de datos multimedia.
 
 **Pablo Castilla (Programación y Gaming):** El Timed Linux Kernel Compilation es el más útil para medir el tiempo de ejecución en desarrollo , y FurMark  que mide mejor la estabilidad del hardware en juegos pesados.
+**Luciano Blanco (Simulación de cicuitos y diseño analógico con LTSpice):** El Ariel Benchmark (también conocido como el Ariel LTspice Speed Test) es el más útil para medir la velocidad de cómputo del motor en simulaciones transitorias, y el Análisis de Monte Carlo que mide mejor la fiabilidad del diseño ante la tolerancia de los componentes.
+
 
 ### 3. Tabla de Tareas y Benchmarks (Resumen)
 
