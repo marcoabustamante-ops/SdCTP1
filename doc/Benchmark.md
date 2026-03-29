@@ -13,6 +13,7 @@ A continuación, presentamos una lista de benchmarks.
 * **Speedometer / JetStream:** Benchmarks **de aplicación** basados en el navegador que miden la velocidad de ejecución de scripts web (JavaScript). Reflejan la fluidez y la **latencia** en tareas de navegación diaria y aplicaciones en la nube.
 *  **Speedtest:** Es un benchmark de red y throughput. Mide el rendimiento de la interfaz de red (NIC) y la latencia (ping) entre el sistema y un servidor externo.
 *  **FFmpeg:** Un benchmark de programa real que mide la capacidad del procesador para transformar y comprimir archivos de video y audio. Evalúa qué tan rápido el hardware puede realizar cálculos matemáticos repetitivos sobre grandes flujos de datos multimedia.
+*  **Ariel Benchmark (LTspice Speed Test):** Un benchmark de aplicación real enfocado en la simulación de circuitos electrónicos. Mide la velocidad del motor de cálculo para resolver ecuaciones complejas en simulaciones transitorias. Evalúa principalmente el rendimiento del procesador en operaciones matemáticas secuenciales y la eficiencia en el manejo de grandes volúmenes de datos temporales.
 
 **Pablo Castilla (Programación y Gaming):** El Timed Linux Kernel Compilation es el más útil para medir el tiempo de ejecución en desarrollo , y FurMark  que mide mejor la estabilidad del hardware en juegos pesados.
 
