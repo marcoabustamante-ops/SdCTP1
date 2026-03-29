@@ -18,6 +18,7 @@ A continuación, presentamos una lista de benchmarks.
 
 **Luciano Blanco (Simulación de cicuitos y diseño analógico con LTSpice):** El Ariel Benchmark (también conocido como el Ariel LTspice Speed Test) es el más útil para medir la velocidad de cómputo del motor en simulaciones transitorias, y el Análisis de Monte Carlo que mide mejor la fiabilidad del diseño ante la tolerancia de los componentes.
 
+**Marco Bustamante(Streaming):** Las transmiones en vivo son muy dependientes de la calidad de conexion a internet. Necesitan un ancho de banda constante y con latencia constante.
 
 ### 3. Tabla de Tareas y Benchmarks (Resumen)
 
