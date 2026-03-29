@@ -28,9 +28,13 @@ sudo apt install arduino
 
 File / Preference
 
+<img width="843" height="226" alt="Additional_Boards" src="https://github.com/user-attachments/assets/f526d82b-b42a-4683-bd1c-6ffcf078b68a" />
+
 * Buscamos los archivos necesarios para utilizar nuestra placa desde. Asegurarse de elegir la ESP32 de Expressif System 
 
 Tools / Board / BoardsManager
+
+<img width="622" height="354" alt="ManagerBoard" src="https://github.com/user-attachments/assets/6624afd0-3088-4f18-99db-3656e3eadfe7" />
 
 <br>
 
